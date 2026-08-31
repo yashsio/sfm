@@ -1,3 +1,4 @@
 sfm
 *.o
 config.h
+result
