@@ -25,7 +25,7 @@
 
             meta = with pkgs.lib; {
               description = "Suckless file manager";
-              homepage = "https://github.com/thestaccato/sfm";
+              homepage = "https://github.com/yashsio/sfm";
               license = licenses.mit;
               platforms = platforms.unix;
               mainProgram = "sfm";
